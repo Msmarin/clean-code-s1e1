@@ -37,7 +37,7 @@ var createNewTaskElement=function(taskString){
 
     //Each elements, needs appending
     checkBox.type="checkbox";
-    checkBox.className="task-input__box";
+   checkBox.className="task-input__box";
     editInput.type="text";
     editInput.className="task task-input__txt";
 
